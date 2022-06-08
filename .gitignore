@@ -10,6 +10,7 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.html
-/obj
-/bin
-/.vscode
+*/obj
+*/bin
+**/obj
+**/obj
