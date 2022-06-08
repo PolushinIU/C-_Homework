@@ -10,7 +10,12 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.html
-*/obj
-*/bin
-**/obj
-**/obj
+/Task_1/obj
+/Task_1/bin
+/Task_2/obj
+/Task_2/bin
+/Task_3/obj
+/Task_3/bin
+/Task_4/obj
+/Task_4/bin
+*.csproj
